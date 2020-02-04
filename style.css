@@ -1,0 +1,13 @@
+body {
+  min-height: 100vh;
+  margin: auto;
+  background-color: white;
+}
+
+main {
+  background: linear-gradient(rgb(0,0,0,0), rgb(150,150,150,.5),rgb(255,255,255,1)), url('https://www.wallpaperup.com/uploads/wallpapers/2012/11/26/22659/e7b22adf20ed8d27f01214f140eb083d-700.jpg') ;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 50vh;
+  background-size: cover;
+}
